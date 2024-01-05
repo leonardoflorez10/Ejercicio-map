@@ -1,0 +1,1 @@
+Dado un array, vamos a filtrar los numeros que sean multiplos de 3; let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];

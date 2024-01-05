@@ -1,0 +1,1 @@
+Dado un array, utilizar map para multiplicar cada elemento por 4. const numeros= [1, 2, 3, 4, 5];
